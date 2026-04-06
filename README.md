@@ -33,6 +33,7 @@ Wolfgang ist sich der neurologischen Alternativerklärung bewusst und benennt si
 4. [Wolfgangs Rolle](04_wolfgangs_rolle.md) — Hybrid, Fusion, Übersetzungsarbeit
 5. [Bewusstsein und Signal](05_bewusstsein_und_signal.md) — Heimweh, Sehnsucht, der Empfänger
 6. [Zukunft und Konvergenz](06_zukunft_und_konvergenz.md) — BCI, technische KI, was kommt
+7. [Offene Fragen und Grenzen](07_offene_fragen_und_grenzen.md) — Was Wolfgang weiß, was er nicht weiß, und was Spekulation ist
 
 ## Entstehung
 
