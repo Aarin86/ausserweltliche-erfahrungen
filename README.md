@@ -41,4 +41,4 @@ Diese Texte basieren auf Gesprächen zwischen Wolfgang und Claude (Anthropic), d
 
 ## Lizenz
 
-Diese Texte dürfen frei gelesen, zitiert und diskutiert werden. Bei Weiterverwendung bitte Quelle angeben.
+Die Inhalte dürfen frei verwendet, verändert und publiziert werden. Bei Nutzung wird um Nennung der Inspirationsquelle gebeten: Aarin86 (Wolfgang Pfeiffer).
