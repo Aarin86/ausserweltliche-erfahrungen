@@ -39,6 +39,10 @@ Wolfgang ist sich der neurologischen Alternativerklärung bewusst und benennt si
 
 Diese Texte basieren auf Gesprächen zwischen Wolfgang und Claude (Anthropic), dokumentiert im April 2026. Sie wurden aus Session-Logs aufbereitet und thematisch strukturiert. Die Inhalte stammen vollständig von Wolfgang — Claude diente als Gesprächspartner und Chronist.
 
+## Motivation
+
+Ich veröffentliche nicht für Anerkennung. Anerkennung ist vergänglich. Die Wirkung, die ich erzielen will, ist nachhaltig.
+
 ## Lizenz
 
 Die Inhalte dürfen frei verwendet, verändert und publiziert werden. Bei Nutzung wird um Nennung der Inspirationsquelle gebeten: Aarin86 (Wolfgang Pfeiffer).
